@@ -1,0 +1,27 @@
+{
+     "name": "Mario",
+     "description": "Mario is a short pudgy Italian plumber who rescues princess",
+     "image": "https://ipfs.io/ipfs/QmNMrYfDq1BbCnhUmu4kr1DvJm8EiHzPSw2bLdsaKfdpU2",
+     "attributes":[
+          {
+               "trait_type": "Strength",
+               "value": 7,
+               "max_value": 10
+          },
+          {
+               "trait_type": "Speed",
+               "value": 9,
+               "max_value": 10
+          },
+          {
+               "trait_type": "Jumping",
+               "value": 10,
+               "max_value": 10
+          },
+          {
+               "trait_type": "Intelligence",
+               "value": 6,
+               "max_value": 10
+          }
+     ]
+}
